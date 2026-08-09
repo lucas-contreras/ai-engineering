@@ -1,4 +1,4 @@
-# Lucas AI Engineering
+# AI Engineering
 
 Reusable AI engineering skills and instructions for software development.
 
